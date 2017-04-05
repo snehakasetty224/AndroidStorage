@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidDatastorage</string>
+    <string name="save_success_msg">Message saved successfully!</string>
+</resources>
